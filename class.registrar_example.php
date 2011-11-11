@@ -6,6 +6,9 @@
  * 'registrarname' is the name of the class you've created. Please send feedback regarding
  * the ease of use (or lack thereof!) of this file to <support@ubersmith.com>.
  *
+ * Before you can use your new registrar, you'll need to add an entry to the 'domain_registrars'
+ * with at least the registrar name. You can configure the rest through the Ubersmith UI.
+ *
  * @author John Smith <mstyne@ubersmith.com>
  * @version $Id$
  * @package ubersmith
